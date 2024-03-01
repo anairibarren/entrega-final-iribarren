@@ -1,0 +1,21 @@
+
+/*Body - Servicios*/
+.service-title{ 
+    font-size: 35px;
+    text-align: center;
+    text-decoration: underline;
+}
+.service{ 
+    padding: 15px;
+    box-sizing: border-box ;
+    display: flex;
+    align-items: center;
+    img{ 
+        width: 38%;
+        height: auto;
+    }
+    .service-info{ 
+        margin-left: 30px;
+        font-size: 15px;
+    }
+}
